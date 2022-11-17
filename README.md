@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niki Zheng.
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning machine learning.
+- 👀 I’m interested in data analytics. I am used to work as a product manager.
+- 🌱 I’m currently learning machine learning and data analytics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 My email address is w0470221@campus.nscc.ca
 
