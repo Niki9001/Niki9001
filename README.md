@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niki Zheng.
+- 👋 Hi, I’m Niki Zheng.
 - 👀 I’m interested in data analytics. I am used to work as a product manager.
 - 🌱 I’m currently learning machine learning and data analytics.
 - 💞️ I’m looking to collaborate on ...
