@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Niki Zheng.
-- 👀 I’m interested in data analytics. I am used to work as a product manager.
+- 👀 I’m interested in data analytics and computer science. I am used to work as a product manager.
 - 🌱 I’m currently learning machine learning and data analytics.
 - 💞️ I’m looking to collaborate on ...
-- 📫 My email address is w0470221@nscc.ca
+- 📫 My email address is
+-           xn689819@dal.ca
+-           w0470221@nscc.ca
 
 <!---
 Niki9001/Niki9001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
